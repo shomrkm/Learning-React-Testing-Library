@@ -1,1 +1,3 @@
-# Learning-React-Testing-Library
+# Description
+
+React-Testing-Library の勉強用のプロジェクトです。
